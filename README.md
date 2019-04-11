@@ -23,8 +23,6 @@ To run the tests type:
 
 ## Usage
 
-FIXME: explanation
-
     $ java -jar game-of-sets-0.1.0-standalone.jar [args]
 
 ### Bugs
